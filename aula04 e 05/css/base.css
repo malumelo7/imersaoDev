@@ -1,0 +1,14 @@
+:root {
+    --color-first: #FFFFFF;
+    --color-second: #EDD834;
+    --color-third: #573A4C;
+    --color-black: #000000;
+}
+
+
+body {
+    background-color: var(--color-third);
+    font-family: 'Salsa', cursive;
+    text-shadow: 4px 4px 0px var(--color-black);
+    
+}
